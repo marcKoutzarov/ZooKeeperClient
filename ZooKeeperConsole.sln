@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooKeeperConsoleNet4", "ZooKeeperConsoleNet4\ZooKeeperConsoleNet4.csproj", "{73FF3843-907B-4CF8-A27D-31D1AAA85B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FF3843-907B-4CF8-A27D-31D1AAA85B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FF3843-907B-4CF8-A27D-31D1AAA85B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FF3843-907B-4CF8-A27D-31D1AAA85B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FF3843-907B-4CF8-A27D-31D1AAA85B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93BC5D61-5E91-4FF8-9735-D4308E0740D7}
+	EndGlobalSection
+EndGlobal
